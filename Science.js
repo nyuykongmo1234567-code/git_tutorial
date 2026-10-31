@@ -1,2 +1,2 @@
-console.log("homepage");
-console.log("nowtime");
+console.log('homepage');
+console.log('homepagehas come');
